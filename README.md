@@ -1,8 +1,6 @@
 # cognitive-docs
 dokumentasi test IQ
 
-Testing IQ Page
-
 Tata Cara: 
 
 - Lengkapi data di https://www.do.my.id/dashboard/#profile/accounts, NPM, Nomor WA HP, Nama, Github Username
